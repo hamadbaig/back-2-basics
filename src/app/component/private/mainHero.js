@@ -12,7 +12,7 @@ export default function MainHero() {
       <div className="w-full md:w-[50%]  mt-8 md:mt-0">
         <div className="w-full">
           <Image
-            src="/cells4.webp"
+            src="/tesla.webp"
             alt="cells Image"
             width={100}
             height={100}

@@ -1,8 +1,10 @@
 "use client";
 import Image from "next/image";
 import Link from "next/link";
-
+import { FaLinkedin } from "react-icons/fa";
+import { FaWhatsapp } from "react-icons/fa";
 export default function Footer() {
+  const whatsappNumber = "8527862446";
   return (
     <footer className="bg-[#62BC7B] text-white py-10">
       <div className="container mx-auto flex flex-col md:flex-row gap-3   items-center justify-between ">
@@ -54,18 +56,18 @@ export default function Footer() {
             <img src="/footerrm.png" alt="Twitter" className="h-6 w-6" />
           </a>
           <a
-            href="https://linkedin.com"
-            target="_blank"
-            rel="noopener noreferrer"
+            href="https://www.linkedin.com/in/hammad-ahmed-340aa3218/"
+            className=""
           >
-            <img src="/footerrm.png" alt="LinkedIn" className="h-6 w-6" />
+            <FaLinkedin className="w-[3rem]" />
           </a>
           <a
-            href="https://youtube.com"
+            href={`https://wa.me/${whatsappNumber}`}
             target="_blank"
             rel="noopener noreferrer"
+            className=""
           >
-            <img src="/footerrm.png" alt="YouTube" className="h-6 w-6" />
+            <FaWhatsapp className="w-[3rem] " />
           </a>
         </div>
       </div>
