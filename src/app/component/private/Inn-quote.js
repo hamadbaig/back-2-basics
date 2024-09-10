@@ -7,10 +7,10 @@ const QuoteSection = () => {
         <div className="border-4 border-lime-400 px-4 py-8 lg:px-12 lg:py-16 text-center max-w-4xl">
           <blockquote className="text-white text-xl lg:text-2xl font-medium leading-relaxed">
             <span className="text-4xl font-bold text-white">“</span>
-            What set Ascend Elements apart for us was their technology. The fact
-            they can recycle old chemistries, adjust chemical ratios, and
+            What set Back2Basics Elements apart for us was their technology. The
+            fact they can recycle old chemistries, adjust chemical ratios, and
             re-sell materials into the value chain is very attractive. Compared
-            to other recyclers, Ascend Elements stood apart.
+            to other recyclers, Back2Basics Elements stood apart.
             <span className="text-4xl font-bold text-white">”</span>
           </blockquote>
           <p className="mt-6 text-lime-400 font-semibold text-lg lg:text-xl">

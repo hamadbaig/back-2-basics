@@ -9,14 +9,17 @@ const Contact = () => {
   const [message, setmessage] = useState("");
   const [phone, setphone] = useState("");
 
-  const [isContentVisible, setIsContentVisible] = useState(false);
-  const form = useRef();
-
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    const serviceId = "service_6gfazn1";
-    const templateId = "template_dovyfwr";
+    // const serviceId = "service_6gfazn1";
+    // const templateId = "template_dovyfwr";
+    // const publicKey = "SvzjE8cl0x69WTzFm";
+
+    const serviceId = "service_3fy09el";
+
+    const templateId = "template_mxaavla";
+
     const publicKey = "SvzjE8cl0x69WTzFm";
 
     const formData = {

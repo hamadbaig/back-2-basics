@@ -4,7 +4,7 @@ import HiringProcess from "../component/private/Hiring";
 export default function Home() {
   return (
     <div>
-      <About />s
+      <About />
       <LeadershipTeam />
       <HiringProcess />
     </div>

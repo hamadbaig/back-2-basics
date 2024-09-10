@@ -17,13 +17,13 @@ const Hero = () => {
         transition={{ type: "spring", stiffness: 50 }}
         className=" flex flex-col justify-center text-left p-6 mb-4 md:pr-[6rem] bg-[#62BC7B] md:h-[70vh] md:w-[65%]"
       >
-        <h2 className="text-3xl font-bold mb-4 ">Ascend Elements</h2>
+        <h2 className="text-3xl font-bold mb-4 ">Back2Basics Elements</h2>
         <p className="mb-4">
-          Ascend Elements is an independent manufacturer of advanced battery
-          materials using valuable elements reclaimed from spent lithium-ion
-          batteries. Our patented <strong>Hydro-to-Cathode®</strong> direct
-          precursor synthesis process transforms today’s waste into high-value
-          materials for tomorrow’s EV batteries—a giant step up in
+          Back2Basics Elements is an independent manufacturer of advanced
+          battery materials using valuable elements reclaimed from spent
+          lithium-ion batteries. Our patented <strong>Hydro-to-Cathode®</strong>{" "}
+          direct precursor synthesis process transforms today’s waste into
+          high-value materials for tomorrow’s EV batteries—a giant step up in
           sustainability for the entire industry.
         </p>
         <button className="mt-4 bg-green-900 text-white py-2 px-6 rounded-lg hover:bg-blue-600 transition duration-200 max-w-fit ">

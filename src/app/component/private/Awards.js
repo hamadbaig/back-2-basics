@@ -16,7 +16,7 @@ const Awards = () => {
           />
           <div className="mt-4 sm:mt-0 text-center sm:text-left">
             <h2 className="text-black font-semibold">
-              Ascend Elements ranked #1
+              Back2Basics Elements ranked #1
             </h2>
             <p className="text-gray-700">
               in Automotive on Fast Company’s Most Innovative Companies of 2024
@@ -38,7 +38,7 @@ const Awards = () => {
           />
           <div className="mt-4 sm:mt-0 text-center sm:text-left">
             <h2 className="text-black font-semibold">
-              Ascend Elements ranked #10
+              Back2Basics Elements ranked #10
             </h2>
             <p className="text-gray-700">
               by TIME Magazine as one of America Top Green Tech Companies of

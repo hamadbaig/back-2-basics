@@ -10,7 +10,7 @@ export default function Footer() {
         <div className="footer-section mb-6 md:mb-0">
           <Image
             src="/footerrm.png"
-            alt="Ascend Elements Logo"
+            alt="Back 2 Basics Elements Logo"
             width={150}
             height={50}
           />
@@ -35,13 +35,13 @@ export default function Footer() {
 
         {/* Contact Information */}
         <div className="footer-section flex flex-col items-center space-y-2">
-          <p>info@ascendelements.com</p>
+          <p>info@b2b-recycle.com</p>
           <p>
-            133 Flanders Rd.
-            <br />
-            Westborough, MA 01581
+            Ground Floor Unit 4 Plot 103.
+            <br />A Bock, Sector 63, Noida,
           </p>
-          <p>(508) 936-7701</p>
+          <p>Uttar Pardesh 201301</p>
+          <p>+918527862446</p>
         </div>
 
         {/* Social Media Icons */}
@@ -70,9 +70,9 @@ export default function Footer() {
         </div>
       </div>
       <p className="mt-4 text-sm">
-        ©Ascend Elements, Inc. All rights reserved. Hydro-to-Cathode®,
-        Hydro-to-Anode® and Ascend Elements® are trademarks of Ascend Elements,
-        Inc.
+        ©Back 2 Basics Elements, Inc. All rights reserved. Hydro-to-Cathode®,
+        Hydro-to-Anode® and Back 2 Basics Elements® are trademarks of Back 2
+        Basics Elements, Inc.
       </p>
     </footer>
   );

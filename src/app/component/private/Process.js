@@ -10,9 +10,9 @@ const HydroCathode = () => {
           direct precursor synthesis process completes the supply chain loop.
         </h2>
         <p className="max-w-2xl mx-auto mb-12 text-lg">
-          Ascend Elements is revolutionizing the production of lithium-ion
-          battery materials by establishing a clean and sustainable supply chain
-          using recycled feedstock...
+          Back 2 Basics Elements is revolutionizing the production of
+          lithium-ion battery materials by establishing a clean and sustainable
+          supply chain using recycled feedstock...
         </p>
 
         <div className="relative max-w-xl mx-auto">
